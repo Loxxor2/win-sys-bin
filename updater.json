@@ -4,8 +4,8 @@
   "pub_date": "2026-08-22T11:15:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3huRU9mMjlwTVRRMm9NUTQrNHY4UmdSTWdBVU5BUVJCWHo4MWI0RFRubUdpOS9CTzNPNUJOamVLZmRWc0RJN0ZGbm5DaFBwS2J4czk0bDhyQmZDMVhkTERBNHlaOEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDE4NTQ1CWZpbGU6R2VuUmVjaWJvXzEuMTAuMl94NjRfZW4tVVMubXNpLnppcApSQWNXRS9kN21BRzNocVVIL2ZzT3BtSUV4Yk8wZDVIRjlCK0pZUW5SVERMQmVacWtkNVU0VE1ETHVmUU0rb3docHVpQUx5OS9YbzNxVms5ajZJaHFCQT09Cg==",
-      "url": "https://github.com/Loxxor2/win-sys-bin/releases/download/1.10.2/GenRecibo_1.10.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3huRU9mMjlwTVMyYysvTk9yM1F4T2dualFlNTVjSjJFMTZ0cm5la3k3VC9vOEpic0x4S25WaUt5WHN1VGZMVzlSOHdPWFBsZlZteGR2R2F0aUJYbFJRcEhkOS9xL0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDI2NjUzCWZpbGU6R2VuUmVjaWJvXzEuMTAuMl94NjQtc2V0dXAubnNpcy56aXAKeDJubE5lRUVwRlBwVUFOUG54alphQVR1eCt6Z1hzbVpLSlppS1JManE0ekJibUhidXVjRk5wbktqUjdsWkw1dTRiSEI2MU1jcndRSEZFSVVhVTZZRGc9PQo=",
+      "url": "https://github.com/Loxxor2/win-sys-bin/releases/download/1.10.2/GenRecibo_1.10.2_x64-setup.nsis.zip"
     }
   }
 }
