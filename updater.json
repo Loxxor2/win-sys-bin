@@ -1,6 +1,6 @@
 {
   "version": "v1.11.0",
-"notes": "🚀 Nuevas Funciones:\n- Impresión directa desde la app.\n- Módulo de Contratos (según usuario) y rediseño de Balance.\n\n✨ Mejoras:\n- Títulos dinámicos al exportar PDF (Tareas y Materiales).\n- Optimización del botón 'Más tarde' al actualizar.\n\n🔧 Correcciones:\n- Sistema anti-doble clic para evitar duplicar ítems al guardar.\n- Corrección de descripciones en recibos y fuentes en plantillas.",
+"notes": "solo es prueba",
   
   "pub_date": "2026-08-26T11:15:00Z",
   "platforms": {
