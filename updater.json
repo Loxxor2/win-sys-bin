@@ -1,29 +1,30 @@
 {
   "version": "v1.11.0",
   "notes": "
-    🚀 Nuevas Funciones
-    
-    Sistema de impresión directa: Se integró la funcionalidad para imprimir directamente desde la aplicación.
-    
-    Nueva sección de Contratos: Se añadió un módulo de contratos (disponible para usuarios habilitados desde la base de datos).
-    
-    Mejoras en Balance: El módulo fue rediseñado; ahora es posible ingresar capital, registrar gastos y generar un resumen financiero.
-    
-    ✨ Mejoras en la Experiencia de Usuario
-    
-    Títulos dinámicos en Tareas: Al procesar tareas, se agregó una nueva ventana que permite elegir si el documento PDF llevará por título "Orden de trabajo" o "Programa de actividades".
-    
-    Títulos dinámicos en Materiales: De igual forma, al procesar materiales, una nueva ventana permite elegir si el documento PDF dirá "Orden de compra" o "Listado de materiales".
-    
-    Avisos de actualización: Se mejoró y optimizó la respuesta del botón "Más tarde" en la ventana de actualizaciones.
-    
-    🔧 Correcciones y Estabilidad
-    
-    Prevención de elementos duplicados (Cooldown): Se implementó un tiempo de espera (cooldown) en los botones para evitar los dobles clics. Esto soluciona de forma definitiva el error que permitía duplicar ítems al guardar recibos, listados de materiales, cotizaciones y tareas.
-    
-    Descripciones en Recibos: Se corrigió un error que impedía que la descripción del producto o servicio se mostrara en el documento final. Ahora aparece correctamente.
-    
-    Fuentes en plantillas: Se solucionó el problema con el cambio de fuentes tipográficas en las plantillas de Declat Design para los listados de materiales y cotizaciones.",
+  🚀 Nuevas Funciones
+
+Sistema de impresión directa: Se integró la funcionalidad para imprimir directamente desde la aplicación.
+
+Nueva sección de Contratos: Se añadió un módulo de contratos (disponible para usuarios habilitados desde la base de datos).
+
+Mejoras en Balance: El módulo fue rediseñado; ahora es posible ingresar capital, registrar gastos y generar un resumen financiero.
+
+✨ Mejoras en la Experiencia de Usuario
+
+Títulos dinámicos en Tareas: Al procesar tareas, se agregó una nueva ventana que permite elegir si el documento PDF llevará por título "Orden de trabajo" o "Programa de actividades".
+
+Títulos dinámicos en Materiales: De igual forma, al procesar materiales, una nueva ventana permite elegir si el documento PDF dirá "Orden de compra" o "Listado de materiales".
+
+Avisos de actualización: Se mejoró y optimizó la respuesta del botón "Más tarde" en la ventana de actualizaciones.
+
+🔧 Correcciones y Estabilidad
+
+Prevención de elementos duplicados (Cooldown): Se implementó un tiempo de espera (cooldown) en los botones para evitar los dobles clics. Esto soluciona de forma definitiva el error que permitía duplicar ítems al guardar recibos, listados de materiales, cotizaciones y tareas.
+
+Descripciones en Recibos: Se corrigió un error que impedía que la descripción del producto o servicio se mostrara en el documento final. Ahora aparece correctamente.
+
+Fuentes en plantillas: Se solucionó el problema con el cambio de fuentes tipográficas en las plantillas de Declat Design para los listados de materiales y cotizaciones.
+  ",
   
   "pub_date": "2026-08-26T11:15:00Z",
   "platforms": {
