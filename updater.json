@@ -1,6 +1,8 @@
 {
   "version": "v1.11.0",
-  "notes": "ACTUALIZACIÓN GENERAL: --- 1) Nuevas Funciones: Se integró la impresión directa desde la app, una nueva sección de Contratos (según usuario) y un módulo de Balance rediseñado para gestionar capital, gastos y resúmenes. --- 2) Mejoras: Ahora puedes asignar títulos dinámicos al exportar PDFs (como Orden de Trabajo o Listado de Materiales) y la respuesta de esta ventana de actualización es más fluida. --- 3) Correcciones y Estabilidad: Se implementó un bloqueo anti-doble clic que evita duplicar ítems por accidente al guardar documentos. Además, se corrigieron problemas con la visibilidad de las descripciones de servicios y la tipografía en las plantillas de Declat Design.",
+   "notes": "Nuevo: Impresion, Contratos y Balance. Mejoras: Titulos dinamicos en PDF y ventana de update. Fixes: Anti-doble clic, fuentes y textos.",
+
+  
   "pub_date": "2026-08-26T11:15:00Z",
   "platforms": {
     "windows-x86_64": {
