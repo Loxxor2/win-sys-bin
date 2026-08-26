@@ -1,7 +1,6 @@
 {
   "version": "v1.11.0",
-  "notes": "Nuevas Funciones: Sistema de impresión directa integrado. Nueva sección de Contratos (para usuarios habilitados en la base de datos). Módulo de Balance mejorado: ahora permite agregar capital, registrar gastos y generar resúmenes.Mejoras:Títulos dinámicos en PDF: ahora puedes elegir el título al exportar Tareas (ej. Orden de trabajo) y Materiales (ej. Orden de compra). Optimización del botón 'Más tarde' en la ventana de actualización.Correcciones: Sistema anti-doble clic implementado para evitar que se dupliquen ítems al guardar recibos, cotizaciones y tareas. Se corrigió el error que ocultaba la descripción del producto o servicio en el recibo final. Corrección del cambio de fuentes tipográficas en las plantillas de Declat Design.",
-  
+  "notes": "Nuevo: Impresion, Contratos y Balance. Mejoras: Titulos dinamicos en PDF y ventana de update. Fixes: Anti-doble clic, fuentes y textos.",
   "pub_date": "2026-08-26T11:15:00Z",
   "platforms": {
     "windows-x86_64": {
