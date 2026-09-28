@@ -1,13 +1,13 @@
 {
-  "version": "v1.11.0",
-   "notes": "Nuevo: Impresion, Contratos y Balance. Mejoras: Titulos dinamicos en PDF y ventana de update. Fixes: Anti-doble clic, fuentes y textos.",
+  "version": "v1.11.1",
+   "notes": "Se Agrego Reorganización con Arrastrar y Soltar (Drag & Drop) y Una Alerta de Cambios sin Guardar",
 
   
   "pub_date": "2026-08-26T11:15:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3huRU9mMjlwTVhabHFlN1BBNFBIREZOMVh2OWRoS0IvcUZ4V2hWQkRKcHVHT294TUhwMnZSZyswUXVSNHM0akdaTm1VNHJCbVFkYlFzSllqVWJMMVhmR1BnVWRMTGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzgwMDA1CWZpbGU6R2VuUmVjaWJvXzEuMTEuMF94NjQtc2V0dXAubnNpcy56aXAKcWF2MmRtMkVJVkpNVXdnZDlWRTBXMjg5THY1eHdpNU52d0NaaUdMb0J5YjNnM0RGMjRaa0tYYjVZTzlJRlJVblE5cGo5TFNDMm4xUzlRWFQ2NlloQ0E9PQo=",
-      "url": "https://github.com/Loxxor2/win-sys-bin/releases/download/1.11.0/GenRecibo_1.11.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3huRU9mMjlwTVdyV0dJZzduVTc3Q01Tb2hYdkJlSW5FWUxMSkRua1g3VUpTUXBmeDQ0NkVRalNpdmlidm43MExlYW80WFlsaTVqR1R5VDhHK2pMdFlPZ0o4aVZRK2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjI1NjE2CWZpbGU6R2VuUmVjaWJvXzEuMTEuMV94NjQtc2V0dXAubnNpcy56aXAKMUpZNVlTUENmTmZZNmRucUFrY2tyOEJmb2VhcnNYYU9rV24rTUVnV25iU3RZcEVMSnZTSGdVNUY0M3ByeDJpRklEcW5VYkVHNXNLbGhEK2dxYjdQQWc9PQo=",
+      "url": "https://github.com/Loxxor2/win-sys-bin/releases/download/1.11.1/GenRecibo_1.11.1_x64-setup.nsis.zip"
     }
   }
 }
