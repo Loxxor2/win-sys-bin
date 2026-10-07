@@ -1,13 +1,12 @@
 {
-  "version": "v1.11.1",
-   "notes": "Se Agrego Reorganización con Arrastrar y Soltar (Drag & Drop) y Una Alerta de Cambios sin Guardar",
-
+  "version": "v1.12.0",
+  "notes": "# Novedades\n- Dashboard visual con gráficos de barras y de pastel en Balance\n- Metas de facturación mensual con barra de progreso interactiva\n- Exportación de reportes a PDF y Excel (balance general, deudores y gastos)\n- Creación directa de recibos, cotizaciones y listas de materiales desde Clientes\n\n# Mejoras\n- Soporte para copiar y pegar texto en Programa de Actividades\n- Paginación y saltos de página en Actividades optimizados por párrafos\n- Ventana de plantillas de contratos rediseñada con tamaño fijo y visualización mejorada\n- Incorporación de nuevos modelos de IA para mayor respaldo y estabilidad\n\n# Correcciones\n- Solucionado el error en el botón para añadir nuevas plantillas en Contratos\n- Corrección en la IA de Contratos para la inclusión adecuada de llaves\n- Bloqueo de peticiones duplicadas a la IA cuando el cronograma ya fue generado",
   
   "pub_date": "2026-08-26T11:15:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3huRU9mMjlwTVdyV0dJZzduVTc3Q01Tb2hYdkJlSW5FWUxMSkRua1g3VUpTUXBmeDQ0NkVRalNpdmlidm43MExlYW80WFlsaTVqR1R5VDhHK2pMdFlPZ0o4aVZRK2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjI1NjE2CWZpbGU6R2VuUmVjaWJvXzEuMTEuMV94NjQtc2V0dXAubnNpcy56aXAKMUpZNVlTUENmTmZZNmRucUFrY2tyOEJmb2VhcnNYYU9rV24rTUVnV25iU3RZcEVMSnZTSGdVNUY0M3ByeDJpRklEcW5VYkVHNXNLbGhEK2dxYjdQQWc9PQo=",
-      "url": "https://github.com/Loxxor2/win-sys-bin/releases/download/1.11.1/GenRecibo_1.11.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3huRU9mMjlwTVZZWHhuTzhHWDdFMzhXUUc5SUhMV0xySkViTXBaeTNGSGVNaXJyRlpnU1dxa0p1MDJGcGI2TFBhL015VkZuZUVubFVmdm5vOUVjdGtCbHZvWHBRT0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDA1OTU3CWZpbGU6R2VuUmVjaWJvXzEuMTIuMF94NjQtc2V0dXAubnNpcy56aXAKUWRJYThWMGtYdHErOWdpamRVYzdDU0hYZ2hURWpmZmVvQjBwMmcvdVlYaEQ1MzNBeFBpSXp0OHo1N1BDU25WSHZxMW5hYXQ1YzAzY0k3OUVQSWROQ0E9PQo=",
+      "url": "https://github.com/Loxxor2/win-sys-bin/releases/download/1.12.0/GenRecibo_1.12.0_x64-setup.nsis.zip"
     }
   }
 }
