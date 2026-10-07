@@ -1,6 +1,7 @@
 {
   "version": "v1.12.0",
-  "notes": "# Novedades\n- Dashboard visual con gráficos de barras y de pastel en Balance\n- Metas de facturación mensual con barra de progreso interactiva\n- Exportación de reportes a PDF y Excel (balance general, deudores y gastos)\n- Creación directa de recibos, cotizaciones y listas de materiales desde Clientes\n\n# Mejoras\n- Soporte para copiar y pegar texto en Programa de Actividades\n- Paginación y saltos de página en Actividades optimizados por párrafos\n- Ventana de plantillas de contratos rediseñada con tamaño fijo y visualización mejorada\n- Incorporación de nuevos modelos de IA para mayor respaldo y estabilidad\n\n# Correcciones\n- Solucionado el error en el botón para añadir nuevas plantillas en Contratos\n- Corrección en la IA de Contratos para la inclusión adecuada de llaves\n- Bloqueo de peticiones duplicadas a la IA cuando el cronograma ya fue generado",
+  
+  "notes": "# Novedades\n- Gráficos, meta mensual y reportes PDF/Excel en Balance\n- Crear cotizaciones, recibos y listas desde Clientes\n\n# Mejoras\n- Copiado y mejor paginación en Actividades\n- Ajustes en plantillas de contratos y correcciones de IA",  
   
   "pub_date": "2026-08-26T11:15:00Z",
   "platforms": {
