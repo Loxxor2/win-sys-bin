@@ -6,7 +6,7 @@
   "pub_date": "2026-08-26T11:15:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3huRU9mMjlwTVJDQjlOdmsrRG92UysxRklyeG1QV1BNM0o5NS9neElaZjJ6T1hjaUJEMzNveEFiakZsdDZjdGZxa013SlVleGN1cjRuclZWbjdERjVRdWtZY0xRQlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDA2ODgxCWZpbGU6R2VuUmVjaWJvXzEuMTIuMF94NjQtc2V0dXAubnNpcy56aXAKMUkrNE1WQ2svbFFyRk1EczFNWHZzR0pJWGgzSG1FelJickVhaiswSzhpd3pIdmR2Qm9RQVlDazZ6TnVrcGtzN1BBbC83ZkU0b2x6NWd2YnB0ZDVQRGc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3huRU9mMjlwTVRDWllDVi9WOXBTL1AvUFozSUFYRW5GaDNsL1VxRVBBaWorVnRjd3RLV2J1NkhkZTN3UEFWRERyd3RaOUNyL3ViMFk4amkvUmlndlFNUFhzcE00RmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDgxODIzCWZpbGU6R2VuUmVjaWJvXzEuMTIuMF94NjQtc2V0dXAubnNpcy56aXAKWEs0dDVNcVdNVktNcE5GUkEwY2Z4QjhtdU1vMThzTVoxMlM0WlFlbHZmSmo4bzZnZWFOa3FRSGpIR3orRllJdkhvNGlhZ2JqMEh3T0VZSDJWNEpxQWc9PQo=",
       "url": "https://github.com/Loxxor2/win-sys-bin/releases/download/1.12.0/GenRecibo_1.12.0_x64-setup.nsis.zip"
     }
   }
